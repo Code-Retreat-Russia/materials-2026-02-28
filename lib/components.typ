@@ -14,6 +14,7 @@
   show "Java": [*Java*]
   show "Go": [*Go*]
   show "JS": [*JS*]
+  show "PHP": [*PHP*]
   show "Python": [*Python*]
   show "Kotlin": [*Kotlin*]
   show ".NET": [*.NET*]
@@ -255,7 +256,7 @@
 
 #let review-questions() = {
   [
-    - Кто готов показать результаты?
-    - Кто готов поделиться наблюдениями?
+    = Демонстрация результата
+    = Подвести итоги упражнения в парах
   ]
 }
